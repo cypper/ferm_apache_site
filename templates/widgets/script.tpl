@@ -1,0 +1,1 @@
+<script>{$vars.script}</script>
