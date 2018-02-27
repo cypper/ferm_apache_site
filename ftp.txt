@@ -1,9 +1,1 @@
-ftp.ferm.pp.ua / main1@ferm.pp.ua / .F_n3]&vz+!9
-ftp.ferm.pp.ua / ferm@ferm.pp.ua / TX}9zX5vvane
 
-ssh / fermppua / ~tp1OnG+HsBb
-
-mongoDB_cloud / cypper1999@gmail.com / xDH&65rNrh@Yzy+s + fermua / xDH&65rNrh@Yzy+s
-
-wget --user main1@ferm.pp.ua --password '.F_n3]&vz+!9' ftp://ftp.ferm.pp.ua
-/databases/transactions.json
