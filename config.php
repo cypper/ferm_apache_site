@@ -5,7 +5,7 @@ date_default_timezone_set("Europe/Kiev");
 
 define("MG_DB", "root");
 define("MG_NAME", "root");
-define("MG_PASSWORD", "cypper1999");
+define("MG_PASSWORD", "sd");
 
 define("MQ_HOST", "localhost");
 define("MQ_DB", "awgere");
