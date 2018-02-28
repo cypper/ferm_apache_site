@@ -3,9 +3,9 @@
 date_default_timezone_set("Europe/Kiev");
 
 
-define("MG_DB", "localhost");
-define("MG_NAME", "asd");
-define("MG_PASSWORD", urlencode("xDH&6weNrh@Yzy+s"));
+define("MG_DB", "root");
+define("MG_NAME", "root");
+define("MG_PASSWORD", "cypper1999");
 
 define("MQ_HOST", "localhost");
 define("MQ_DB", "awgere");
